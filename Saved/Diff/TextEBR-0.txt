@@ -1,0 +1,30 @@
+Begin Object Class=StaticMesh Name="EBR"
+   Begin Object Class=BodySetup Name="BodySetup_6"
+   End Object
+   Begin Object Class=FbxStaticMeshImportData Name="FbxStaticMeshImportData_13"
+   End Object
+   Begin Object Class=SceneThumbnailInfo Name="SceneThumbnailInfo_1"
+   End Object
+   Begin Object Class=NavCollision Name="NavCollision_20"
+   End Object
+   Begin Object Name="BodySetup_6"
+      AggGeom=(ConvexElems=((VertexData=((X=4.718750,Y=62.156250,Z=2.654599),(X=4.739380,Y=50.753788,Z=-8.747862),(X=4.750000,Y=-64.500000,Z=-8.737242),(X=4.750000,Y=-64.500000,Z=6.760066),(X=4.739380,Y=-61.897278,Z=9.362793),(X=4.718750,Y=62.156250,Z=9.383422),(X=-4.744690,Y=-64.005310,Z=-8.260371),(X=-4.739380,Y=51.235970,Z=-8.265682),(X=-4.744690,Y=61.755310,Z=2.253668),(X=-4.744690,Y=61.755310,Z=10.446959),(X=-4.744690,Y=-60.754765,Z=10.505309),(X=-4.744690,Y=-64.005310,Z=7.254759),(X=-0.958923,Y=65.541077,Z=6.039430),(X=1.333923,Y=65.541077,Z=6.039434),(X=1.333923,Y=65.541077,Z=8.206167),(X=-0.958923,Y=65.541077,Z=8.206163),(X=3.742235,Y=-65.543350,Z=-9.331635),(X=-3.208923,Y=-65.541077,Z=-9.371936),(X=-3.208923,Y=-65.541077,Z=5.718993),(X=3.708923,Y=-65.541077,Z=5.718989),(X=-3.485474,Y=61.982704,Z=11.764526),(X=2.360474,Y=61.982716,Z=11.764526),(X=2.360474,Y=-59.495548,Z=11.764526),(X=-3.485473,Y=-59.495544,Z=11.764526),(X=-1.240537,Y=-63.110470,Z=-11.764525),(X=1.722716,Y=-63.110466,Z=-11.764525),(X=1.722716,Y=47.737122,Z=-11.764525),(X=-1.240538,Y=47.737122,Z=-11.764525),(X=-0.853227,Y=65.588120,Z=8.161884),(X=3.614962,Y=63.260036,Z=10.487209),(X=-3.972205,Y=62.527794,Z=11.219444),(X=3.948919,Y=-65.336662,Z=-9.538321),(X=-3.421025,Y=-65.328972,Z=-9.584038)),ElemBox=(Min=(X=-4.744690,Y=-65.543350,Z=-11.764525),Max=(X=4.750000,Y=65.588120,Z=11.764526),IsValid=1))))
+   End Object
+   Begin Object Name="FbxStaticMeshImportData_13"
+      SourceFilePath="../../../../../../Users/Scott/Downloads/DeviceDoctor.RAROpener_mkdtfchztkfbm!App/qpvvqetcvt-EBR/EBR.FBX"
+      SourceFileTimestamp="2015.04.27-02.44.17"
+   End Object
+   Begin Object Name="SceneThumbnailInfo_1"
+   End Object
+   Begin Object Name="NavCollision_20"
+   End Object
+   SourceModels(0)=(BuildSettings=(bRecomputeNormals=False))
+   Materials(0)=Material'/Game/Character/Tex_0003_1_Mat.Tex_0003_1_Mat'
+   Materials(1)=None
+   Materials(2)=None
+   LightMapResolution=64
+   LightMapCoordinateIndex=1
+   AssetImportData=FbxStaticMeshImportData'FbxStaticMeshImportData_13'
+   ThumbnailInfo=SceneThumbnailInfo'SceneThumbnailInfo_1'
+   EditorCameraPosition=(bIsSet=True,CamOrbitPoint=(X=-12.645634,Y=21.004160,Z=-8.462914),CamOrbitZoom=(X=31.753284,Y=52.225143,Z=18.978687),CamOrbitRotation=(Pitch=-17.250181,Yaw=-121.299919,Roll=0.000001))
+End Object
